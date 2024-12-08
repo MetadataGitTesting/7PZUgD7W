@@ -1,0 +1,57 @@
+name: tyesha.mccullough
+description: systemic
+version: 0.0.1
+author: okclqmhz.02xy8bwx@y1icc2wx.com
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: tyeshamccullough
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-12-08 23:45:36'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-12-08 23:45:36'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-12-08T23:45:36.566148Z'
+  name: plibMaven
+  version: 8.7.0-SNAPSHOT
+  id: '929490583'
+  createdAt: '2024-12-08T23:45:36.566148Z'
+  type: plibMaven
+projectDependencies:
+  '252':
+    projectUID: 252
+    projectName: thaddeus.kihn
+    repositoryPath: gitUri=http://gitserver:3000/dev_1O9IUzNc_team_409/dev_1O9IUzNc_project_252.git&subPath=
+    version: thaddeus.kihn/0.24.453
+    isDefault: false
+    author: null
+    createdAt: '2024-12-08 23:45:36'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
